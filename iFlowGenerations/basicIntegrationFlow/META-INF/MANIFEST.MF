@@ -1,0 +1,8 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: basicIntegrationFlow
+Bundle-SymbolicName: basicIntegrationFlow
+Bundle-Version: 1.0.0
+SAP-BundleType: IntegrationFlow
+SAP-NodeType: IFLMAP
+SAP-RuntimeProfile: iflmap
