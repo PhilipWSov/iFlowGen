@@ -1,0 +1,5 @@
+# iFlow parameter definitions
+iFlowName.displayName=iFlow Name
+iFlowId.displayName=iFlow ID
+version.displayName=Version
+description.displayName=Description
