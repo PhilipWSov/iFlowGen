@@ -1,0 +1,5 @@
+# Parameters for basicIntegrationFlow
+iFlowName=basicIntegrationFlow
+iFlowId=basicIntegrationFlow
+version=1.0.0
+description=Basic iFlow with Start Message connected to End Message
