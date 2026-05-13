@@ -1,0 +1,5 @@
+artifactId=basicIntegrationFlow
+groupId=com.sap.iflowgen
+version=1.0.0
+name=basicIntegrationFlow
+type=IntegrationFlow
